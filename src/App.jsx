@@ -3,7 +3,7 @@ import GlobalStyles from './GlobalStyles'
 import Header from './components/Header/Header'
 
 const Container = styled.div`
-  background-color: lightgray;
+  background-color: #eee;
   height: 100vh; 
 `
 
